@@ -1,6 +1,6 @@
 # Data Science & AI - Labs
 
-In this repository you will find the lab assignments for the Data Science & AI course. 
+In this repository you will find the lab assignments for the Data Science & AI course.
 The idea is that you make a copy of this repository (using the Github Classroom link you get
 during the first classes) and keep your own solutions in that repository.
 
@@ -18,8 +18,8 @@ Alternatively, you can work locally on your own machine. In that case, you need 
 
 - Python
 - Visual Studio Code, with extensions:
-    - Python, Pylance  (Microsoft)
-    - Jupyter, Jupyter Keymap, Jupyter Notebook Rendering (Microsoft)
+  - Python, Pylance  (Microsoft)
+  - Jupyter, Jupyter Keymap, Jupyter Notebook Rendering (Microsoft)
 - Optionally: GitLens (GitKraken), Markdown All in One (Yu Zhang)
 - Git & a Github-account
 
